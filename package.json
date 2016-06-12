@@ -1,0 +1,19 @@
+{
+  "name": "use-fsm",
+  "version": "0.0.1",
+  "description": "Subset of use strict, limited to finite state machines",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codepilot/use-fsm.git"
+  },
+  "author": "Daniel Kluss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codepilot/use-fsm/issues"
+  },
+  "homepage": "https://github.com/codepilot/use-fsm#readme"
+}
